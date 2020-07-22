@@ -1,0 +1,39 @@
+.about-header {
+    height: 100vh;
+    
+}
+
+.about-header img{
+    height: 70%;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+/* .oneVH {
+    height: 100vh;
+} */
+
+.image-fit {
+    width: 100%;
+    height: auto;
+}
+
+.next-project-span {
+    color: #ededed;
+}
+
+.next-project-title {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.remove-padding {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.copyright-text a{
+    color: #ededed;
+}
